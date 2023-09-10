@@ -1,0 +1,30 @@
+div > p{
+    color: green;
+}
+
+div + p{
+    color: blue;
+}
+
+#contact{
+    color:black;
+}
+
+#edu{
+    color: orange;
+}
+
+.projects{
+    color: orangered;
+}
+
+.software{
+    color: rgb(252, 252, 32);
+}
+
+.language{
+    color:olive;
+}
+.accomplish{
+    color: rgb(126, 30, 216);
+}
