@@ -1,0 +1,11 @@
+section{
+    font-weight: bold;
+    color:blue;
+    background-color: lightblue;
+}
+
+div{
+    font-weight: bold;
+    color: green;
+    background-color: chartreuse;
+}
